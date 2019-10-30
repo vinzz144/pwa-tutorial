@@ -2,7 +2,7 @@
     "name": "Food Ninja",
     "short_name": "FoodNinja",
     "start_url": "/pwa-tutorial/index.html",
-    // "display": "standalone",
+    "display": "browser",
     "background_color": "#FFE9D2",
     "theme_color": "#FFE1C4",
     "orientation": "portrait-primary",
